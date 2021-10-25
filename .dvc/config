@@ -1,2 +1,2 @@
 ['remote "ssh_store"']
-    url = ssh://localhost/STORE
+    url = ssh://localhost/tmp/STORE
