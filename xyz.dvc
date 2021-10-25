@@ -1,0 +1,5 @@
+outs:
+- md5: b6273b589df2dfdbd8fe35b1011e3183
+  size: 4
+  path: xyz
+  isexec: true
