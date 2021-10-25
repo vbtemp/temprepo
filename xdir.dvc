@@ -1,0 +1,5 @@
+outs:
+- md5: 6b4663172992df9556ebd24098f5ac06.dir
+  size: 12
+  nfiles: 4
+  path: xdir
